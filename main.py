@@ -1,3 +1,10 @@
+pip install openai
+pip install voice_recognition
+pip install pyttsx3
+
+
+
+
 import openai
 import speech_recognition as sr
 import pyttsx3
