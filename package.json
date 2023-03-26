@@ -1,0 +1,10 @@
+{
+  "name": "69",
+  "version": "1.0.0",
+  "description": "My project description",
+  "dependencies": {
+    "openai": "^0.10.2",
+    "speech-recognition": "^3.8.1",
+    "pyttsx3": "^2.90"
+  }
+}
